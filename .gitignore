@@ -1,0 +1,35 @@
+/COVID 2022/NY-DATABASE/CHEST-RAY-ONLY-LABELED-ICU-ALL-ORDERED
+/COVID 2022/NY-DATABASE/E-CNN-classifier-main
+/COVID 2022/NY-DATABASE/Notebooks/__pycache__
+/COVID 2022/NY-DATABASE/Notebooks/Outputs/CNN/CHECKPOINTS
+/COVID 2022/NY-DATABASE/Notebooks/Outputs/CNN/MODELS-PB
+/COVID 2022/NY-DATABASE/Notebooks/Outputs/StructuredData/CHECKPOINTS
+/COVID 2022/NY-DATABASE/Notebooks/Outputs/StructuredData/MODELS-PB
+/COVID 2022/NY-DATABASE/Notebooks/DS_training/OUTPUTS/CHECKPOINTS
+/COVID 2022/NY-DATABASE/Notebooks/DS_training/OUTPUTS/MODELS-PB
+/SEVERSTAL/DB
+/SEVERSTAL/E-CNN-classifier-main
+/SEVERSTAL/mlruns
+/SEVERSTAL/Outputs/CNN/CHECKPOINTS
+/SEVERSTAL/Outputs/CNN/MODELS-PB
+
+/SEVERSTAL/Notebooks/__pycache__
+/SEVERSTAL/Notebooks/checkpoints
+/SEVERSTAL/Notebooks/mlruns
+
+
+/SEVERSTAL/new_paper_impl_libs/__pycache__
+
+
+/SEVERSTAL/Outputs/VideoSystems
+
+
+*.keras
+*.pb
+
+*.png
+*.html
+*.txt
+
+*.csv
+
